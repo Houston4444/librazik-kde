@@ -1,0 +1,37 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Effect-Cube]
+BorderActivate=9
+BorderActivateCylinder=9
+BorderActivateSphere=9
+
+[Effect-DesktopGrid]
+BorderActivate=3
+
+[MouseBindings]
+CommandActiveTitlebar1=Raise
+CommandActiveTitlebar2=Start window tab drag
+CommandActiveTitlebar3=Operations menu
+CommandAll1=Move
+CommandAll2=Toggle raise and lower
+CommandAll3=Resize
+CommandAllKey=Meta
+CommandAllWheel=Nothing
+CommandInactiveTitlebar1=Activate and raise
+CommandInactiveTitlebar2=Start window tab drag
+CommandInactiveTitlebar3=Operations menu
+CommandTitlebarWheel=Switch to Window Tab to the Left/Right
+CommandWindow1=Activate, raise and pass click
+CommandWindow2=Activate and pass click
+CommandWindow3=Activate and pass click
+CommandWindowWheel=Scroll
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=MSF
+ButtonsOnRight=HIAX
+CloseOnDoubleClickOnMenu=false
+theme[$d]
