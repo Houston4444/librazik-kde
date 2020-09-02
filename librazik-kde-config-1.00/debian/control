@@ -1,4 +1,4 @@
-Source: librazik-theme-librazik
+Source: librazik-kde-config
 Section: x11
 Priority: optional
 Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
@@ -7,9 +7,9 @@ Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 12), kpackagetool5
 Homepage: https://librazik.tuxfamily.org/
 
-Package: librazik-theme-kde
+Package: librazik-kde-config
 Architecture: all
-Depends:
+Depends: librazik-kde-theme
  ${misc:Depends}
 Description: LibraZiK 3 - KDE Plasma theme
  This package contains the LibraZiK 3 theme for KDE Plasma desktop.

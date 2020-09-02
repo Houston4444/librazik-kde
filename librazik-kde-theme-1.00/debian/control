@@ -1,13 +1,13 @@
-Source: librazik-theme-librazik
+Source: librazik-kde-theme
 Section: x11
 Priority: optional
 Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
 Uploaders: Olivier Humbert <trebmuh@tuxfamily.org>
 Standards-Version: 4.3.0
-Build-Depends: debhelper (>= 12), kpackagetool5
+Build-Depends: debhelper (>= 12)
 Homepage: https://librazik.tuxfamily.org/
 
-Package: librazik-theme-kde
+Package: librazik-kde-theme
 Architecture: all
 Depends:
  ${misc:Depends}
