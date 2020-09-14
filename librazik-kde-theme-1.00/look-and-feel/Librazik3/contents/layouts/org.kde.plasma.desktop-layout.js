@@ -88,11 +88,11 @@ var layout = {
                             "DialogWidth": "720"
                         },
                         "/Configuration/Configuration/General": {
-                            "launchers": ["applications:org.kde.dolphin.desktop", "applications:firefox-esr.desktop"],
+                            "launchers": ["applications:org.kde.dolphin.desktop", "applications:firefox-esr.desktop", "applications:cadence.desktop", "applications:catia.desktop", "applications:raysession.desktop"],
                             "showOnlyCurrentDesktop": "true"
                         },
                         "/Configuration/General": {
-                            "launchers": ["applications:org.kde.dolphin.desktop", "applications:firefox-esr.desktop"],
+                            "launchers": ["applications:org.kde.dolphin.desktop", "applications:firefox-esr.desktop", "applications:cadence.desktop", "applications:catia.desktop", "applications:raysession.desktop"],
                             "showOnlyCurrentDesktop": "true"
                         }
                     },
