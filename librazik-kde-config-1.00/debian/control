@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
 Uploaders: Olivier Humbert <trebmuh@tuxfamily.org>
 Standards-Version: 4.3.0
-Build-Depends: debhelper (>= 12), kpackagetool5, libkf5config-bin
+Build-Depends: debhelper (>= 12), libkf5config-bin
 Homepage: https://librazik.tuxfamily.org/
 
 Package: librazik-kde-config

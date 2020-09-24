@@ -1,0 +1,4 @@
+# set the SDDM (login) theme to Librazik3
+
+kwriteconfig5 --file /etc/sddm.conf --group Theme --key Current Librazik3
+kwriteconfig5 --file /etc/sddm.conf --group Theme --key CursorTheme breeze_cursors

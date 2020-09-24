@@ -1,9 +1,8 @@
+librazik-kde-config (1.00) buster; urgency=medium
 
-librazik-theme-kde buster; urgency=medium
-  * look-and-feel:
-    - Thème global pour KDE Plasma permettant de retourner facilement
-      au thème global en cas de modifications de l'utilisateur
-  * desktoptheme:
-    - Thème des panneaux, des composants graphiques, fond d'écran et icône de lanceur
+  * use librazik kde theme
+  * use kwin specifications especially for windows decorations
+  * connect konversation directly to freenode #librazik
+  * kdeglobals is in skel because it seems impossible to have dark decorations by default another way
 
  -- Mathieu Picot <picotmathieu@gmail.com>  Tue, 01 Sep 2020 12:43:44 +0200

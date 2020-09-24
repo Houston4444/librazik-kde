@@ -1,0 +1,15 @@
+Package: librazik-kde-config
+Version: 1.00
+Architecture: all
+Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
+Installed-Size: 22
+Depends: librazik-kde-theme
+Section: x11
+Priority: optional
+Homepage: https://librazik.tuxfamily.org/
+Description: LibraZiK 3 - KDE Plasma theme
+ This package contains the LibraZiK 3 theme for KDE Plasma desktop.
+ .
+ Documentation page : https://librazik.tuxfamily.org/doc3/paquets
+ .
+ LibraZiK audio studio package 2020 ©
